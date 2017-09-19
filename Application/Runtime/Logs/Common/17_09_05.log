@@ -1,0 +1,42 @@
+[ 2017-09-05T09:56:21+08:00 ] 178.154.200.19 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+ERR: 无法加载模块:Robots
+
+[ 2017-09-05T14:04:35+08:00 ] 178.154.200.19 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+ERR: 无法加载模块:Robots
+
+[ 2017-09-05T15:27:35+08:00 ] 120.41.67.12 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+ERR: 无法加载模块:Favicon
+
+[ 2017-09-05T15:27:36+08:00 ] 120.41.67.12 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+ERR: 无法加载模块:Favicon
+
+[ 2017-09-05T15:27:38+08:00 ] 120.41.67.12 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+ERR: 无法加载模块:Favicon
+
+[ 2017-09-05T15:27:39+08:00 ] 120.41.67.12 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+ERR: 无法加载模块:Favicon
+
+[ 2017-09-05T22:18:51+08:00 ] 178.154.200.19 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+ERR: 无法加载模块:Robots
+
